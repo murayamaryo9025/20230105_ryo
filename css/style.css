@@ -17,10 +17,13 @@
     display: flex;
     justify-content: flex-end;
     flex-direction:row;
-    position: absolute;
+    position: relative;
     right: 20px;
+    top: 20px;
     list-style: none;
     color: #000587;
+
+
 
 
 }
